@@ -7,7 +7,7 @@ setup(
     license='MIT',
     description='EDSA example python package',
     long_description=open('README.md').read(),
-    install_requires=['numpy,pandas'],
+    install_requires=['numpy'],
     url='https://github.com/<username>/<package-name>',
     author='Marcio',
     author_email='marciomaluka@ymail.com'
